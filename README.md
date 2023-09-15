@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://ibb.co/4ZkrdZK" alt="Prashant_Choudhary_gif" border="0"/>
+    <img src="./assets/Prashant_Choudhary.gif" alt="Prashant_Choudhary_gif" border="0"/>
     <strong>I am a student of Computer Science at IIIT Kottayam. Experienced in Web Development using ReactJS, NextJS, NodeJS, MySQL, Sockets, GSAP, Framer Motion and Tailwind. I like to code in C/C++, Javascript and Python.</strong><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=prashant6802&show_icons=true&hide_border=true" alt="Profile Stats"/>
  <details align="center">
