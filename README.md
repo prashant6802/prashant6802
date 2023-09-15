@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="./assets/Prashant_Choudhary.gif" alt="Prashant_Choudhary_gif" border="0"/>
-    <strong>I am a student of Computer Science at IIIT Kottayam. Experienced in Web Development using ReactJS, NextJS, NodeJS, MySQL, Sockets, GSAP, Framer Motion and Tailwind. I like to code in C/C++, Javascript and Python.</strong><br><br>
+    <img src="./assets/Prashant_Choudhary.gif" alt="Prashant_Choudhary_gif" border="0"/><br>
+    <strong>I am a student of Computer Science at IIIT Kottayam. Experienced in Web Development using ReactJS, NextJS, NodeJS, MySQL, Sockets, GSAP, Framer Motion and Tailwind. I like to solve competitive coding questions in C/C++ as a hobby.</strong><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=prashant6802&show_icons=true&hide_border=true" alt="Profile Stats"/>
  <details align="center">
 </p>
@@ -47,7 +47,10 @@
     <summary align="center"><strong>Contact:</strong></summary>
      <table align="center">
          <tr align="center">
-             <td  align = "center"><a href="mailto:jakharprashant6802@gmail.com"><img src="https://img.icons8.com/color/24/000000/email-sign.png"/><br>Email</a></td>
+             <td  align = "center"><a href="mailto:jakharprashant6802@gmail.com"><img src="https://icons8.com/icon/mXcvtsj8e1Ug/mail"/><br>Email</a></td>
+             <td  align = "center"><a href="https://www.linkedin.com/in/prashant-choudhary-007989206/"><img src="https://icons8.com/icon/TpMqKvVFD9pP/linkedin-2"/><br>LinkedIn</a></td>
+             <td  align = "center"><a href="https://codeforces.com/profile/prashant68/"><img src="https://icons8.com/icon/jldAN67IAsrW/codeforces.-programming-competitions-and-contests%2C-programming-community."/><br>Codeforces</a></td>
+             <td  align = "center"><a href="https://leetcode.com/prashant68/"><img src="https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job"/><br>Leetcode</a></td>
     </table>
     </details>
 
